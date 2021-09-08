@@ -88,18 +88,12 @@ One of...
 -   AP => Thankful for spent indifference
 -   AR => systemic entertainment by the society (TV) favored by Jaquie
     over natural beauty
-
-### False sense of belonging is dangerous (No we)
-
 -   AK => the white men draining the eyes (memories?) of natives to
     include only drugs or alcahol
 -   AJ => dark memories as something her body (knee) forced into her
     mind (eyes)
--   AC => lack of static location of belonging and identity based on
-    movement
--   AG => home is a trap, belonging is a trap
 
-### Pressures of society holds Jaquie down (No you)
+### Pressures of society holds Jaquie down (No second person)
 
 -   AD => pain as a pressure manifest in the atmosphere holding Jaquie
     down, nonchalantly (cool, chill, invisible. Also it\'s freaking air)
@@ -125,11 +119,10 @@ One of...
   Water     Freedom
   Air       Restraint
 
-**In Tommy Orange\'s novel *There There*, the author\'s artful
+**In Tommy Orange\'s novel *There There*, the author\'s use of
 third-person narration of Jacquie\'s character externalizes the systems
-in society which strips the character of Jacquie of her individual
-identity, group belonging, and critical capacity though the
-disenfranchisement of independent action, antagonizing of attached
-heritage, and suppression of analytical freedom respectively: creating a
-multifaceted grappling of the historical forces of oppression that
-plagues upon Native Americans in modern society.**
+in society which strip her of individual identity, group belonging, and
+accusatory capacity though the disenfranchisement of independent action,
+antagonizing of attached heritage, and suppression of analytical freedom
+respectively: creating a multifaceted grappling of the historical forces
+of oppression that plagues upon Native Americans in modern society.**

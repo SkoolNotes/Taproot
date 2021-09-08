@@ -80,9 +80,39 @@ html {
             <p><span class="math display">\[\vec{v_i(t)} = \vec{V_{CM}(t)} + \vec{v_i}&#39;(t)\]</span></p>
             <p>where, <span class="math inline">\(\vec{v_i(t)}\)</span> is the velocity vector of <span class="math inline">\(m_i\)</span>, and <span class="math inline">\(\vec{V_{CM}(t)}\)</span> is the velocity vector of the center of mass of the rigid body, and <span class="math inline">\(\vec{v_i}&#39;(t)\)</span> is the velocity vector from center of mass to <span class="math inline">\(m_i\)</span>.</p>
             <h1 id="deriving-ke_total">Deriving <span class="math inline">\(KE_{total}\)</span></h1>
+            <h2 id="setting-up">Setting up</h2>
             <p>From definition of <span class="math inline">\(KE_{total}\)</span> itself, <span class="math inline">\(KE_{total}\)</span> is the sum of all energies of each point mass in the rigid body.</p>
             <p><span class="math display">\[\sum^N_{i=1} \frac{1}{2}m_iv_i^2\]</span></p>
-            <p>Expanding this equation and replacing</p>
+            <h2 id="derivation-part-1">Derivation, part 1</h2>
+            <p>Expanding this equation and substituting the value of <span class="math inline">\(v_i\)</span>, and additionally setting <span class="math inline">\(M = \sum m_i\)</span> (namely, that <span class="math inline">\(M\)</span> represents the total mass of the rigid body) we could derive:</p>
+            <p><span class="math display">\[\begin{aligned}
+                \sum^N_{i=1} \frac{1}{2}m_iv_i^2 =&amp; \sum^N_{i=1} \frac{1}{2}m_i(v_i \cdot v_i) \\
+                =&amp; \sum^N_{i=1} \frac{1}{2}m_i((\vec{V_{CM}} + \vec{v_i}&#39;) \cdot (\vec{V_{CM}} + \vec{v_i}&#39;)) \\
+                =&amp; \sum^N_{i=1} \frac{1}{2}m_i(\vec{V_{CM}}^2 + 2 \times (\vec{v_i}&#39; \cdot \vec{V_{CM}}) + \vec{v_i}&#39;^2)) \\
+                =&amp; \sum^N_{i=1} \frac{1}{2}m_i\vec{V_{CM}}^2 + \sum^N_{i=1} m_i \times (\vec{v_i}&#39; \cdot \vec{V_{CM}}) + \sum^N_{i=1} \frac{1}{2}m_i\vec{v_i}&#39;^2 \\
+                =&amp; \frac{1}{2} \vec{V_{CM}}^2 \sum^N_{i=1} m_i + \vec{V_{CM}} \sum^N_{i=1} m_i \vec{v_i}&#39; + \sum^N_{i=1} \frac{1}{2}m_i\vec{v_i}&#39;^2\end{aligned}\]</span></p>
+            <h2 id="dealing-with-the-middle-term">Dealing with the Middle Term</h2>
+            <p>At this point, we must note that <span class="math inline">\(\sum^N_{i=1} m_i \vec{v_i}&#39; = 0\)</span>. Per the definition of the center of mass, the following holds:</p>
+            <p><span class="math display">\[\vec{r_{CM}} = (\frac{1}{M}) \sum_i m_i \vec{r_i}\]</span></p>
+            <p>Changing reference frame to that of the center of mass itself, this equation therefore becomes:</p>
+            <p><span class="math display">\[\vec{r_{CM}}&#39; = (\frac{1}{M}) \sum_i m_i \vec{r_i}&#39;\]</span></p>
+            <p>It is important to realize here that <span class="math inline">\(\vec{r_{CM}}&#39; = 0\)</span> because of the fact that — at the reference point of the center of mass, the center of mass is at a zero-vector distance away from itself.</p>
+            <p>In order to figure a statement with respect to the <em>velocity</em> of <span class="math inline">\(r_i&#39;\)</span>, we take the derivative of the previous equation with respect to time.</p>
+            <p><span class="math display">\[\begin{aligned}
+                0 =&amp; (\frac{1}{M}) \sum_i m_i \vec{r_i}&#39; \\
+                \Rightarrow&amp; \frac{d}{dt} (\frac{1}{M}) \sum_i m_i \vec{r_i}&#39; \\
+                =&amp; (\frac{1}{M}) \sum_i m_i \vec{v_i}&#39;\end{aligned}\]</span></p>
+            <p>Given that <span class="math inline">\(\frac{1}{M}\)</span> could not be zero for an object with non-zero mass, it is concluded therefore that <span class="math inline">\(\sum_i m_i \vec{v_i}&#39; = 0\)</span>.</p>
+            <h2 id="derivation-part-2">Derivation, part 2</h2>
+            <p>As <span class="math inline">\(\sum_i m_i \vec{v_i}&#39; = 0\)</span>, the <span class="math inline">\(KE_{total}\)</span> work-in-progress equation’s middle term (which contains the statement <span class="math inline">\(\sum_i m_i \vec{v_i}&#39;\)</span>) is therefore zero. Substituting that in and removing the term, we therefore result in:</p>
+            <p><span class="math display">\[\sum^N_{i=1} \frac{1}{2}m_iv_i^2 = \frac{1}{2} \vec{V_{CM}}^2 \sum^N_{i=1} m_i + \sum^N_{i=1} \frac{1}{2}m_i\vec{v_i}&#39;^2\]</span></p>
+            <p>Replacing the definition of <span class="math inline">\(M = \sum m_i\)</span>, we result in</p>
+            <p><span class="math display">\[\begin{aligned}
+                 \sum^N_{i=1} \frac{1}{2}m_iv_i^2 &amp;= \frac{1}{2} M \vec{V_{CM}}^2 + \sum^N_{i=1} \frac{1}{2}m_i\vec{v_i}&#39;^2 \\
+                 KE_{total} &amp;= \frac{1}{2} M \vec{V_{CM}}^2 + \sum^N_{i=1} \frac{1}{2}m_i\vec{v_i}&#39;^2\end{aligned}\]</span></p>
+            <p>The left term of this equation (<span class="math inline">\(\frac{1}{2} M \vec{V_{CM}}^2\)</span>) is the clear original statement for <span class="math inline">\(KE_{translational}\)</span>. As component masses of a rigid body cannot experience translational motion about its center of origin, the second term is therefore rotational only and so <span class="math inline">\(KE_{rotational}\)</span>.</p>
+            <p>Therefore:</p>
+            <p><span class="math display">\[KE_{total} = KE_{translational}+KE_{rotational}\]</span></p>
         </div>
 
         <script>

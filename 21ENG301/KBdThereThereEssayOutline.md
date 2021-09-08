@@ -11,8 +11,8 @@ Orange theorizes the concept of the “Urban Indian” in his Prologue (11). Def
 
 # Outline
 
-- Thesis
-	- **Orange characterizes Tony's  interaction with his identity by **
+- Thesis (?)
+	- **Tony's identity as an Urban Indian is initially characterized by his embracement of his urban upbringing and his Indian past, but as the novel progresses, Tony starts exploring the Indian cultural side of his identity.** (To be changed in the future)
 - What is an Urban Indian?
 	- "Urbanity" section in Prologue
 	- Indians that were forced into an unfamiliar lifestyle and forced to lose their identity in favor of the status quo identity
@@ -37,3 +37,7 @@ Orange theorizes the concept of the “Urban Indian” in his Prologue (11). Def
 	- Tony still feels the Indian culture deep down
 		- "I tightened my chin strap. I looked at my face. The Drome. I didn’t see it there. I saw an Indian. I saw a dancer."
 			- To Tony (and other Urban Indians), embracing Indian culture (i.e. regalia) helps with overcoming the Drome (i.e. Urban Indian burden).
+
+# Essay
+
+Tony is initially apathetic towards Indian culture in favor of the urban culture he grew up in, and only interacts with his Indian heritage through contemplating on the troubled past of his people. 
