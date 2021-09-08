@@ -1,2 +1,1 @@
-        Log for attempt at Tue Sep  7 02:56:28 PM PDT 2021 (19200)
-        Tue Sep  7 02:56:28 PM PDT 2021 Converting 2021PHYS360/KBhPHYS360RotationalKineticEnergy.org...
+        Log for attempt at Wed Sep  8 07:29:19 AM PDT 2021 (19232)
