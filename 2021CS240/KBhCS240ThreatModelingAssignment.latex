@@ -159,8 +159,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}19357)}}    % original
-%\rhead{\textrmlf{Compiled }\#19357\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}19388)}}    % original
+%\rhead{\textrmlf{Compiled }\#19388\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -221,6 +221,37 @@ the user.
 \section{What are we protecting?}\label{what-are-we-protecting}}
 
 Because of the open-source nature of Condution, and the fact that all
-processing code
+data processing code is done with the client application, the most
+important asset to actually protect is any user's data (tasks,
+perspectives, due dates, etc.).
+
+This means creating a secure pipeline between our servers and that of
+the clients, that from self-hosted servers and that of their clients,
+and finally the clients themselves.
+
+The scope of Condution is has too narrow scope to protect anyone but
+direct Condution user's data, including misuses of the client app or API
+but not including users of a third-party services with indirect API
+interfaces to Condution.
+
+\hypertarget{who-are-we-protecting-it-from-and-what-are-their-motivations}{%
+\section{Who are we protecting it from, and what are their
+motivations?}\label{who-are-we-protecting-it-from-and-what-are-their-motivations}}
+
+\hypertarget{protecting-from}{%
+\subsection{Protecting from\ldots{}}\label{protecting-from}}
+
+\begin{itemize}
+\tightlist
+\item
+  Advertisers who may want to advertise based on notes of users
+\item
+  Foreign companies who are attempting to access privileged information
+\item
+  Bad actors looking to leverage a "weak-point" in a user's security
+  profile
+\item
+  Well-meaning but security-unconscious users
+\end{itemize}
 
 \end{document}

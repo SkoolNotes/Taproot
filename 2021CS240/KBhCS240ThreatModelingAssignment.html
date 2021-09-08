@@ -72,7 +72,17 @@ html {
         <div id="center-viewport">
             <p>The assignment is centered around <a href="https://www.condution.com/">Condution</a>, an open-source task management platform. Data processing and querying is done on-device, but raw user tables and data is stored in a remote PosgreSQL server that’s either officially hosted and supported or optionally on-prem hosted by the user.</p>
             <h1 id="what-are-we-protecting">What are we protecting?</h1>
-            <p>Because of the open-source nature of Condution, and the fact that all processing code</p>
+            <p>Because of the open-source nature of Condution, and the fact that all data processing code is done with the client application, the most important asset to actually protect is any user’s data (tasks, perspectives, due dates, etc.).</p>
+            <p>This means creating a secure pipeline between our servers and that of the clients, that from self-hosted servers and that of their clients, and finally the clients themselves.</p>
+            <p>The scope of Condution is has too narrow scope to protect anyone but direct Condution user’s data, including misuses of the client app or API but not including users of a third-party services with indirect API interfaces to Condution.</p>
+            <h1 id="who-are-we-protecting-it-from-and-what-are-their-motivations">Who are we protecting it from, and what are their motivations?</h1>
+            <h2 id="protecting-from">Protecting from…</h2>
+            <ul>
+            <li><p>Advertisers who may want to advertise based on notes of users</p></li>
+            <li><p>Foreign companies who are attempting to access privileged information</p></li>
+            <li><p>Bad actors looking to leverage a "weak-point" in a user’s security profile</p></li>
+            <li><p>Well-meaning but security-unconscious users</p></li>
+            </ul>
         </div>
 
         <script>

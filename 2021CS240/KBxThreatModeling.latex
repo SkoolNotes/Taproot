@@ -145,8 +145,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{  }
-\newcommand{\thelesson}{}
+\newcommand{\thecourse}{ CS240 }
+\newcommand{\thelesson}{ Threat Modeling }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -159,12 +159,12 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}19360)}}    % original
-%\rhead{\textrmlf{Compiled }\#19360\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}19391)}}    % original
+%\rhead{\textrmlf{Compiled }\#19391\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
-\lfoot{Taproot \(\cdot\) \textbf{2021-2022}}
+\lfoot{Huxley Marvit \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage \textrmlf{ of } \pageref{LastPage}}
 
 
@@ -210,7 +210,7 @@
 
 % DID YOU SET SPELL????
 
-\#flo \#ref \#ret \#disorganized \#incomplete
+\#ret
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
@@ -221,7 +221,7 @@
 \def\labelenumi{\arabic{enumi}.}
 \tightlist
 \item
-  What are we protecting?
+  \textbf{What are we protecting?}
 
   \begin{enumerate}
   \def\labelenumii{\arabic{enumii}.}
@@ -229,14 +229,7 @@
   \item
     User privacy and data
   \item
-    User mental space
-
-    \begin{enumerate}
-    \def\labelenumiii{\arabic{enumiii}.}
-    \tightlist
-    \item
-      advertising
-    \end{enumerate}
+    User mental space (advertising)
   \item
     Peace of mind
   \item
@@ -244,38 +237,115 @@
   \item
     Protect external agendas
 
-    \begin{enumerate}
-    \def\labelenumiii{\arabic{enumiii}.}
+    \begin{itemize}
     \tightlist
     \item
-      brand ecosystem
-    \end{enumerate}
+      brand ecosystem, publicity
+    \end{itemize}
   \item
     User entry points
-
-    \begin{enumerate}
-    \def\labelenumiii{\arabic{enumiii}.}
-    \tightlist
-    \item
-    \end{enumerate}
+  \item
+    User resources (energy)
   \end{enumerate}
 \item
-  Who are we protecting it from, and what are their motivations?
+  \textbf{Who are we protecting it from, and what are their
+  motivations?}
 
   \begin{enumerate}
   \def\labelenumii{\arabic{enumii}.}
   \tightlist
   \item
     Data miners
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Money (companies) or personal gain (blackmailers)
+    \end{itemize}
   \item
     Advertisers
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Money
+    \end{itemize}
   \item
     Foreign state actors
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Gaining influence
+    \end{itemize}
+  \item
+    Physical attackers
+
+    \begin{itemize}
+    \tightlist
+    \item
+      ``Alexa, open the pod bay doors.'' Digital entry point to physical
+      resources
+    \end{itemize}
+  \item
+    Misinformed users
+
+    \begin{itemize}
+    \tightlist
+    \item
+      To help
+    \end{itemize}
+  \item
+    Accidental users
+
+    \begin{itemize}
+    \tightlist
+    \item
+      !voice assistant actions
+    \end{itemize}
+  \item
+    Trolls
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Fun
+    \end{itemize}
+  \item
+    DDOSers
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Bot net
+    \end{itemize}
   \end{enumerate}
 \item
-  What methods of attacks do we prevent?
+  \textbf{What methods of attacks do we prevent?}
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+    External system hijacking (remote control)
+  \item
+    Unauthorized activation for certain actions
+  \item
+    Exploitation of security vulnerabilities for accessing user data
+  \end{enumerate}
 \item
-  What are the possible effects of these attacks?
+  \textbf{What are the possible effects of these attacks?}
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+    Damaged financial well being
+  \item
+    Damaged emotional well being
+  \item
+    Damaged physical well being
+  \end{enumerate}
 \item
   What are their resources?
 \item
