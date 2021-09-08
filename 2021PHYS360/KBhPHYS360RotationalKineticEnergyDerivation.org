@@ -30,16 +30,4 @@ From definition of $KE_{total}$ itself, $KE_{total}$ is the sum of all energies 
 \end{equation}
 
 
-Expanding this equation and substituting the value of $v_i$, and additionally setting $M = \sum m_i$ (namely, that $M$ represents the total mass of the rigid body) we could derive:
-
-\begin{align}
-    \sum^N_{i=1} \frac{1}{2}m_iv_i^2 =& \sum^N_{i=1} \frac{1}{2}m_i(v_i \cdot v_i) \\
-    =& \sum^N_{i=1} \frac{1}{2}m_i((\vec{V_{CM}} + \vec{v_i}') \cdot (\vec{V_{CM}} + \vec{v_i}')) \\
-    =& \sum^N_{i=1} \frac{1}{2}m_i(\vec{V_{CM}}^2 + 2 \times (\vec{v_i}' \cdot \vec{V_{CM}}) + \vec{v_i}'^2)) \\
-    =& \sum^N_{i=1} \frac{1}{2}m_i\vec{V_{CM}}^2 + \sum^N_{i=1} m_i \times (\vec{v_i}' \cdot \vec{V_{CM}}) + \sum^N_{i=1} \frac{1}{2}m_i\vec{v_i}'^2 \\
-    =& \frac{1}{2} \vec{V_{CM}}^2 \sum^N_{i=1} m_i + \vec{V_{CM}} \sum^N_{i=1} m_i \vec{v_i}' + \sum^N_{i=1} \frac{1}{2}m_i\vec{v_i}'^2
-\end{align}
-
-
-
-
+Expanding this equation and replacing

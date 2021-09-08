@@ -1,0 +1,52 @@
+---
+author: Houjun Liu
+title: Deriving Rotational Energy
+---
+
+```{=org}
+#+COURSE: PHYS360
+```
+```{=org}
+#+SOURCE: KBhPHYS360RotationalKineticEnergy
+```
+# Position of $m_i$
+
+In a rigid body consisting of $N$ point masses, the vector to the
+position of $m_i$ is defined as $\vec{r_i(t)}$, which is defined as
+follows:
+
+```{=latex}
+\begin{equation}
+    \vec{r_i(t)} = \vec{R_{CM}(t)} + \vec{r_i}'(t)
+\end{equation}
+```
+whereas, $\vec{R_{CM}(t)}$ is the position vector of the center of mass
+of the rigid body as a whole, and $\vec{r_i}'(t)$ the vector from the
+center of mass to $m_i$.
+
+# Velocity of $m_i$
+
+The velocity of $m_i$ is simply determined by the first derivative of
+the position equation as per above. Namely, that:
+
+```{=latex}
+\begin{equation}
+    \vec{v_i(t)} = \vec{V_{CM}(t)} + \vec{v_i}'(t)
+\end{equation}
+```
+where, $\vec{v_i(t)}$ is the velocity vector of $m_i$, and
+$\vec{V_{CM}(t)}$ is the velocity vector of the center of mass of the
+rigid body, and $\vec{v_i}'(t)$ is the velocity vector from center of
+mass to $m_i$.
+
+# Deriving $KE_{total}$
+
+From definition of $KE_{total}$ itself, $KE_{total}$ is the sum of all
+energies of each point mass in the rigid body.
+
+```{=latex}
+\begin{equation}
+    \sum^N_{i=1} \frac{1}{2}m_iv_i^2
+\end{equation}
+```
+Expanding this equation and replacing
