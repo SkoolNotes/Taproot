@@ -159,12 +159,12 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}18130)}}    % original
-%\rhead{\textrmlf{Compiled }\#18130\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}19309)}}    % original
+%\rhead{\textrmlf{Compiled }\#19309\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
-\lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
+\lfoot{Taproot \(\cdot\) \textbf{2021-2022}}
 \rfoot{\textrmlf{Page} \thepage \textrmlf{ of } \pageref{LastPage}}
 
 
@@ -245,5 +245,11 @@
 
 \hypertarget{threat-modeling}{%
 \subsection{\#\# Threat modeling}\label{threat-modeling}}
+
+\begin{itemize}
+\tightlist
+\item
+  {[}{[}KBhCS240ThreatModeling{]}{]}
+\end{itemize}
 
 \end{document}

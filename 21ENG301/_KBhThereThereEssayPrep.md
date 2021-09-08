@@ -86,12 +86,8 @@ One of...
 -   AB => drinking as a form of slowing time
 -   AO => drinking as something dulling and \"solemn\"
 -   AP => Thankful for spent indifference
--   AR => systemic entertainment by the society (TV) favored by Jaquie
-    over natural beauty
 -   AK => the white men draining the eyes (memories?) of natives to
     include only drugs or alcahol
--   AJ => dark memories as something her body (knee) forced into her
-    mind (eyes)
 
 ### Pressures of society holds Jaquie down (No second person)
 
@@ -107,6 +103,13 @@ One of...
 -   AM => Jaqueline\'s actions reveal about her smoking habits, and it
     manifests visually through cough
 -   AA => the system rejects the pain that drive one to suicide
+-   AC => lack of static location of belonging and identity based on
+    movement
+-   AG => home is a trap, belonging is a trap
+-   AR => systemic entertainment by the society (TV) favored by Jaquie
+    over natural beauty
+-   AJ => dark memories as something her body (knee) forced into her
+    mind (eyes)
 
 # Claim Synthesis
 
@@ -120,9 +123,7 @@ One of...
   Air       Restraint
 
 **In Tommy Orange\'s novel *There There*, the author\'s use of
-third-person narration of Jacquie\'s character externalizes the systems
-in society which strip her of individual identity, group belonging, and
-accusatory capacity though the disenfranchisement of independent action,
-antagonizing of attached heritage, and suppression of analytical freedom
-respectively: creating a multifaceted grappling of the historical forces
-of oppression that plagues upon Native Americans in modern society.**
+third-person perspective of Jacquie\'s character externalizes the
+systems in society which strip her of both a sense of identity and
+capacity to critique: creating a multifaceted grappling of the forces of
+oppression that plagues upon Native Americans in modern society.**

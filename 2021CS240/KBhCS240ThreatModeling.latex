@@ -146,7 +146,7 @@
 
 
 \newcommand{\thecourse}{  }
-\newcommand{\thelesson}{ There There Essay Outline }
+\newcommand{\thelesson}{ Threat Modeling }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -159,12 +159,12 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}19306)}}    % original
-%\rhead{\textrmlf{Compiled }\#19306\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}19327)}}    % original
+%\rhead{\textrmlf{Compiled }\#19327\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
-\lfoot{Dylan Wallace \(\cdot\) \textbf{2020-2021}}
+\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage \textrmlf{ of } \pageref{LastPage}}
 
 
@@ -210,161 +210,93 @@
 
 % DID YOU SET SPELL????
 
-\hypertarget{prompt}{%
-\section{Prompt}\label{prompt}}
+\hypertarget{previously-on-computer-security}{%
+\section{Previously, on Computer
+Security}\label{previously-on-computer-security}}
 
-\begin{verbatim}
-Orange theorizes the concept of the “Urban Indian” in his Prologue (11). Define this concept and explain how one of the novel’s characters navigates this modern identity alongside his/her ancestral roots.
-\end{verbatim}
+How \emph{do} we protect user data?
 
-\hypertarget{outline}{%
-\section{Outline}\label{outline}}
+\textbf{\textbf{Increased security always comes with a trade-off of ease
+of use.}}
+
+\hypertarget{lessons-from-the-number-game}{%
+\subsection{Lessons from the number
+game}\label{lessons-from-the-number-game}}
 
 \begin{itemize}
 \tightlist
 \item
-  Thesis (?)
-
-  \begin{itemize}
-  \tightlist
-  \item
-    \textbf{Tony's identity as an Urban Indian is initially
-    characterized by his embracement of his urban upbringing and his
-    Indian past, but as the novel progresses, Tony starts exploring the
-    Indian cultural side of his identity.} (To be changed in the future)
-  \end{itemize}
+  Security is hard :(
 \item
-  What is an Urban Indian?
-
-  \begin{itemize}
-  \tightlist
-  \item
-    ``Urbanity'' section in Prologue
-  \item
-    Indians that were forced into an unfamiliar lifestyle and forced to
-    lose their identity in favor of the status quo identity
-  \item
-    Attached to their cultural past and their history
-  \item
-    This is going to be a hard concept to communicate exactly into words
-    in the essay
-  \end{itemize}
+  Security is hard; uncertainty of security makes it harder
 \item
-  Talk about Tony Loneman and the Drome
-
-  \begin{itemize}
-  \tightlist
-  \item
-    Face is a consequence of urban Indian life and its many hardships
-
-    \begin{itemize}
-    \tightlist
-    \item
-      Disconnect from culture and socioeconomic pressure leads many
-      Urban Indians to alcohol addiction
-    \end{itemize}
-  \item
-    Tony literally says that ``the Drome'' (i.e.~Alcohol Poisoning) is
-    ``my mom and why she drank, it's the way history lands on a face,
-    and all the ways I made it so far despite how it has fucked with me
-    since the day I found it there on the TV, staring back at me like a
-    fucking villain.''
-
-    \begin{itemize}
-    \tightlist
-    \item
-      In essence, the Drome is a metaphor (in Tony's, and in our,
-      minds,) of the burden that is being an Urban Indian.
-
-      \begin{itemize}
-      \tightlist
-      \item
-        Drome causing Tony to be stupid =\textgreater{} Stereotypes
-        about Indians being stupid???
-      \end{itemize}
-    \item
-      However, Tony claims that he has overcame the Drome
-
-      \begin{itemize}
-      \tightlist
-      \item
-        ``all the ways I made it so far despite how it has fucked with
-        me since the day I found it there on the TV''
-      \end{itemize}
-    \end{itemize}
-  \end{itemize}
-\item
-  MF DOOM passage (May Remove)
-
-  \begin{itemize}
-  \tightlist
-  \item
-    ``And it helped because the Drome's what gives me my soul, and the
-    Drome is a face worn through.''
-
-    \begin{itemize}
-    \tightlist
-    \item
-      Tony has internalized the Drome as part of his identity (i.e.~came
-      to terms with it)
-    \end{itemize}
-  \item
-    MF DOOM background
-
-    \begin{itemize}
-    \tightlist
-    \item
-      MF DOOM had many hardships (brother died, got dropped by his
-      record label, was homeless for a while)
-    \end{itemize}
-  \end{itemize}
-\item
-  Tony's disconnect from Indian culture
-
-  \begin{itemize}
-  \tightlist
-  \item
-    Evident in robbing the Powwow
-
-    \begin{itemize}
-    \tightlist
-    \item
-      Tony doesn't hesitate when Octavio tells him they will rob the
-      Powwow
-    \end{itemize}
-  \item
-    Tony still feels the Indian culture deep down
-
-    \begin{itemize}
-    \tightlist
-    \item
-      ``I tightened my chin strap. I looked at my face. The Drome. I
-      didn't see it there. I saw an Indian. I saw a dancer.''
-
-      \begin{itemize}
-      \tightlist
-      \item
-        To Tony (and other Urban Indians), embracing Indian culture
-        (i.e.~regalia) helps with overcoming the Drome (i.e.~Urban
-        Indian burden).
-      \end{itemize}
-    \item
-      Tony's actions in last chapter
-
-      \begin{itemize}
-      \tightlist
-      \item
-        ``\,''
-      \end{itemize}
-    \end{itemize}
-  \end{itemize}
+  Its easier to brainstorm attacks than to brainstorm solutions
 \end{itemize}
 
-\hypertarget{essay}{%
-\section{Essay}\label{essay}}
+\hypertarget{threat-modeling-1}{%
+\section{Threat Modeling}\label{threat-modeling-1}}
 
-Tony is initially apathetic towards Indian culture in favor of the urban
-culture he grew up in, and only interacts with his Indian heritage
-through contemplating on the troubled past of his people.
+Thread modeling is a fancy way of creating a structured brainstorming
+framework.
+
+\hypertarget{seven-questions-to-threat-modeling}{%
+\subsection{Seven Questions to Threat
+Modeling}\label{seven-questions-to-threat-modeling}}
+
+\begin{itemize}
+\tightlist
+\item
+  Specifically, what are we protecting?
+\item
+  Who are we protecting it from, and what are their motivations?
+\item
+  What are the resources of attackers?
+\item
+  What are our resources to deploy to prevent these attacks?
+\item
+  What methods of attack do we prevent? What are types of attacks that
+  we don't prevent?
+\item
+  What are the possible effects of these attacks? ("What types of
+  attacks do we prevent, and how does that play on what we are
+  protecting?")
+\item
+  What should we do?
+\end{itemize}
+
+\hypertarget{actual-threat-modeling-for-facebook-health-communities}{%
+\subsection{Actual Threat Modeling for Facebook Health
+Communities}\label{actual-threat-modeling-for-facebook-health-communities}}
+
+\ldots that Wes did.
+
+\hypertarget{what-are-we-protecting}{%
+\subsubsection{What are we protecting?}\label{what-are-we-protecting}}
+
+Health Communities use Facebook Groups to connect people around the
+world who have share health conditions. These groups are created and run
+by Facebook users and offer emotional support and information.
+
+Goal is to protect the users of these groups from physical and emotional
+harm.
+
+Goal is \emph{not} protecting Facebook itself.
+
+\hypertarget{who-are-we-protecting-it-from-and-what-are-their-motivations}{%
+\subsubsection{Who are we protecting it from, and what are their
+motivations?}\label{who-are-we-protecting-it-from-and-what-are-their-motivations}}
+
+\begin{itemize}
+\tightlist
+\item
+  Profiteers who are looking to exploit vulnerable populations (e.g.
+  scam artists, quacks)
+\item
+  Well-meaning but misinformed users
+\item
+  Trolls
+\item
+  Insurance companies who might change user premiums
+\end{itemize}
 
 \end{document}

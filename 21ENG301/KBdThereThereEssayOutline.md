@@ -37,6 +37,8 @@ Orange theorizes the concept of the “Urban Indian” in his Prologue (11). Def
 	- Tony still feels the Indian culture deep down
 		- "I tightened my chin strap. I looked at my face. The Drome. I didn’t see it there. I saw an Indian. I saw a dancer."
 			- To Tony (and other Urban Indians), embracing Indian culture (i.e. regalia) helps with overcoming the Drome (i.e. Urban Indian burden).
+		- Tony's actions in last chapter
+			- ""
 
 # Essay
 
