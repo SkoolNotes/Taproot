@@ -9,8 +9,6 @@ source:  #KBCS240MasterIndex
 
 ---
 
-
-
 ## Voice assistant
 1.  **What are we protecting?**
 	1.  User privacy and data
@@ -43,7 +41,7 @@ source:  #KBCS240MasterIndex
 3.  **What methods of attacks do we prevent?**
 	1. External system hijacking (remote control)
 	2. Unauthorized activation for certain actions
-	3. Exploitation of security vulnerabilities for accessing user data
+	3. Exploitation of security vulnerabilities for accessing user data and creating bot nets
 	
 4. **What are the possible effects of these attacks?**
 	1. Damaged financial well being 
@@ -60,9 +58,20 @@ source:  #KBCS240MasterIndex
 	
 6.  **What are our resources?**
 	1. Massive company
+		- Funding
+		- Workers
+		- Smart people
+		- Infrastructure
 	2. Potential for exploitation / damage
+	3. Intended access to our product
 
-7.  What should we do?
+7. **What should we do?**
+	1. Educate users
+	2. Authorization
+	3. Multi-step confirmations / actions for potentially damaging actions
+	4. Patch programmatic security vulnerabilities
+	5. Look secure
+	6. High reward for finding vulnerabilities
 
 
 

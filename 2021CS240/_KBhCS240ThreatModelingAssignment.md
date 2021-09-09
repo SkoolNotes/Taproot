@@ -48,19 +48,84 @@ interfaces to Condution.
 
 ## Software Attacks
 
+Software attacks mostly center around attacking the user-facing (both
+server and client) software and exposing its vulnerabilities.
+
 -   Auth pipeline password cracking
 -   Cross-site cookie sniffing
--   UI design
+-   XSS
+-   UI design injection to gain protected features
+-   Tampering with self-hosted server authentication UI
 
 ## Pipeline Attacks
+
+Pipeline attacks mostly interfere with our DevOps pipeline to gain
+unauthorized access.
 
 -   Breaching of PAM on our pipeline (once it gets to AWS IAM, its their
     problem)
 -   Breaching keys and cookies for our deployment system
+-   Breaching access points to Continuous Delivery workflow
 -   Leaking signing keys
 
 ## Social Attacks
 
--   Security misinformation (like self XSS via the JavaScript Console)
--   Weak passwords
--   
+Social attacks work on hijacking user\'s information by exposing social
+vulnerabilities of the user.
+
+-   Security misinformation and \"hacks\" distributed over the internet
+    (like self-XSS via the JavaScript Console)
+-   Weak passwords that exacerbate the problems above
+-   Issues with the storage of user passwords and cookies (i.e.
+    accidentally committing all of `.config`{.verbatim}, which would
+    therefore contain Chromium cookies)
+
+# What are the possible effects of these attacks
+
+1.  Digital or physical harm to users via leaking of privileged
+    information
+2.  Digital or physical harm to those whom the users interact with (say,
+    lawyers) via the leaking of privileged information
+3.  Loss of trust in the Condution platform and ecosystem
+4.  Breaking of data privacy laws like CCPA or GDPR
+
+# What are the resources of the attackers
+
+The attacker\'s resources are primarily limited.
+
+Because of the fact that we are limiting our scope to non-organisational
+non-nation-state attacks, and the fact that the net value of user data
+--- although important --- is very low, the attacks will probably be
+limited in scope.
+
+-   Advertisers: the value of random user data is reasonably low, so
+    they will likely only engage in low-effort systems-wide attacks but
+    not much of specific, targeted attacks
+-   Foreign companies and groups who are attempting to access privileged
+    information: the value of this is very high, depending what the
+    informational content is. However, there are likely better sources
+    of attacks than the partial and fragmented to-do list system
+-   Bad actors looking to leverage a \"weak-point\" in a user\'s
+    security profile: this attack likely has very low effort due to the
+    fact that this process casts a generally large net and exposes very
+    shallow vulnerabilities
+-   Well-meaning but security-unconscious users: no value nor tangiable
+    resources
+
+# What are our resources?
+
+Directly accessible resources are reasonably limited: have 8 engineers
+on all departments, limited cybersecurity experience, and only freely or
+cheaply available commercial tools for PAM, authentication, or security.
+
+However, it is possible --- in cases with pipeline leaks and database
+security breaches --- to request emergency help from AWS and GCP. Due to
+the fact that our interests generally align with theirs with respect to
+user data safety, they already have systems in place to perform
+emergency triage and freeze data to protect security.
+
+# What should we do?
+
+1.  Align and protect resources and partnerships with hosting services
+    to allow emergency triage
+2.  Secure pipelines

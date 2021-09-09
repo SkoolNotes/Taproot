@@ -159,8 +159,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}19455)}}    % original
-%\rhead{\textrmlf{Compiled }\#19455\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}19488)}}    % original
+%\rhead{\textrmlf{Compiled }\#19488\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -276,6 +276,9 @@ prevent?}\label{what-methods-of-attacks-do-we-prevent}}
 \hypertarget{software-attacks}{%
 \subsection{Software Attacks}\label{software-attacks}}
 
+Software attacks mostly center around attacking the user-facing (both
+server and client) software and exposing its vulnerabilities.
+
 \begin{itemize}
 \tightlist
 \item
@@ -283,11 +286,18 @@ prevent?}\label{what-methods-of-attacks-do-we-prevent}}
 \item
   Cross-site cookie sniffing
 \item
-  UI design
+  XSS
+\item
+  UI design injection to gain protected features
+\item
+  Tampering with self-hosted server authentication UI
 \end{itemize}
 
 \hypertarget{pipeline-attacks}{%
 \subsection{Pipeline Attacks}\label{pipeline-attacks}}
+
+Pipeline attacks mostly interfere with our DevOps pipeline to gain
+unauthorized access.
 
 \begin{itemize}
 \tightlist
@@ -297,19 +307,91 @@ prevent?}\label{what-methods-of-attacks-do-we-prevent}}
 \item
   Breaching keys and cookies for our deployment system
 \item
+  Breaching access points to Continuous Delivery workflow
+\item
   Leaking signing keys
 \end{itemize}
 
 \hypertarget{social-attacks}{%
 \subsection{Social Attacks}\label{social-attacks}}
 
+Social attacks work on hijacking user's information by exposing social
+vulnerabilities of the user.
+
 \begin{itemize}
 \tightlist
 \item
-  Security misinformation (like self XSS via the JavaScript Console)
+  Security misinformation and "hacks" distributed over the internet
+  (like self-XSS via the JavaScript Console)
 \item
-  Weak passwords
+  Weak passwords that exacerbate the problems above
 \item
+  Issues with the storage of user passwords and cookies (i.e.
+  accidentally committing all of \texttt{.config}, which would therefore
+  contain Chromium cookies)
 \end{itemize}
+
+\hypertarget{what-are-the-possible-effects-of-these-attacks}{%
+\section{What are the possible effects of these
+attacks}\label{what-are-the-possible-effects-of-these-attacks}}
+
+\begin{enumerate}
+\tightlist
+\item
+  Digital or physical harm to users via leaking of privileged
+  information
+\item
+  Digital or physical harm to those whom the users interact with (say,
+  lawyers) via the leaking of privileged information
+\item
+  Loss of trust in the Condution platform and ecosystem
+\item
+  Breaking of data privacy laws like CCPA or GDPR
+\end{enumerate}
+
+\hypertarget{what-are-the-resources-of-the-attackers}{%
+\section{What are the resources of the
+attackers}\label{what-are-the-resources-of-the-attackers}}
+
+The attacker's resources are primarily limited.
+
+Because of the fact that we are limiting our scope to non-organisational
+non-nation-state attacks, and the fact that the net value of user data
+--- although important --- is very low, the attacks will probably be
+limited in scope.
+
+\begin{itemize}
+\tightlist
+\item
+  Advertisers: the value of random user data is reasonably low, so they
+  will likely only engage in low-effort systems-wide attacks but not
+  much of specific, targeted attacks
+\item
+  Foreign companies and groups who are attempting to access privileged
+  information: the value of this is very high, depending what the
+  informational content is. However, there are likely better sources of
+  attacks than the partial and fragmented to-do list system
+\item
+  Bad actors looking to leverage a "weak-point" in a user's security
+  profile: this attack likely has very low effort due to the fact that
+  this process casts a generally large net and exposes very shallow
+  vulnerabilities
+\item
+  Well-meaning but security-unconscious users: no value nor tangiable
+  resources
+\end{itemize}
+
+\hypertarget{what-are-our-resources}{%
+\section{What are our resources?}\label{what-are-our-resources}}
+
+Directly accessible resources are reasonably limited: have 8 engineers
+on all departments, limited cybersecurity experience, and only freely or
+cheaply available commercial tools for PAM, authentication, or security.
+
+However, it is possible --- in cases with pipeline leaks and database
+security breaches --- to request emergency help from AWS and GCP. Due to
+the fact that our interests generally align with theirs with respect to
+user data safety, they already have systems in place to perform
+emergency triage and freeze data to protect security.
 
 \end{document}

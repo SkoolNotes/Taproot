@@ -159,8 +159,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}19455)}}    % original
-%\rhead{\textrmlf{Compiled }\#19455\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}19474)}}    % original
+%\rhead{\textrmlf{Compiled }\#19474\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -331,7 +331,8 @@
   \item
     Unauthorized activation for certain actions
   \item
-    Exploitation of security vulnerabilities for accessing user data
+    Exploitation of security vulnerabilities for accessing user data and
+    creating bot nets
   \end{enumerate}
 \item
   \textbf{What are the possible effects of these attacks?}
@@ -377,11 +378,42 @@
   \tightlist
   \item
     Massive company
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Funding
+    \item
+      Workers
+    \item
+      Smart people
+    \item
+      Infrastructure
+    \end{itemize}
   \item
     Potential for exploitation / damage
+  \item
+    Intended access to our product
   \end{enumerate}
 \item
-  What should we do?
+  \textbf{What should we do?}
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+    Educate users
+  \item
+    Authorization
+  \item
+    Multi-step confirmations / actions for potentially damaging actions
+  \item
+    Patch programmatic security vulnerabilities
+  \item
+    Look secure
+  \item
+    High reward for finding vulnerabilities
+  \end{enumerate}
 \end{enumerate}
 
 \end{document}

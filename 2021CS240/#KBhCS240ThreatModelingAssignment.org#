@@ -68,10 +68,5 @@ Because of the fact that we are limiting our scope to non-organisational non-nat
 * What are our resources? 
 Directly accessible resources are reasonably limited: have 8 engineers on all departments, limited cybersecurity experience, and only freely or cheaply available commercial tools for PAM, authentication, or security.
 
-However, it is possible --- in cases with pipeline leaks and database security breaches --- to request emergency help from AWS and GCP. Due to the fact that our interests generally align with theirs with respect to user data safety, they already have systems in place to perform emergency triage and freeze data to protect security.
-
-* What should we do?
-1. Align and protect resources and partnerships with hosting services to allow emergency triage
-2. Secure pipelines 
-
+However, it is possible --- in cases with pipeline leaks and database security breaches --- to request emergency help from AWS and GCP. Due to the fact that our interests generally align with theirs with respect to user data safety, they already have systems in place to perform emergency traige 
 

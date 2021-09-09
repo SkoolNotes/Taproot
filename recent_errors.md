@@ -1,1 +1,2 @@
-        Log for attempt at Thu Sep  9 12:51:46 PM PDT 2021 (19456)
+        Log for attempt at Thu Sep  9 01:14:12 PM PDT 2021 (19488)
+        Thu Sep  9 01:14:12 PM PDT 2021 Converting 2021CS240/KBhCS240ThreatModelingAssignment.org...
