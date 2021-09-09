@@ -159,8 +159,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}19391)}}    % original
-%\rhead{\textrmlf{Compiled }\#19391\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}19455)}}    % original
+%\rhead{\textrmlf{Compiled }\#19455\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -345,11 +345,41 @@
     Damaged emotional well being
   \item
     Damaged physical well being
+  \item
+    Damage to company brand / ecosystem
   \end{enumerate}
 \item
-  What are their resources?
+  \textbf{What are their resources?}
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+    Expertise and platform
+  \item
+    Potential for money
+
+    \begin{itemize}
+    \tightlist
+    \item
+      Which is a commodity
+    \end{itemize}
+  \item
+    Exploitable users
+  \item
+    Some have financial resources
+  \end{enumerate}
 \item
-  What are our resources?
+  \textbf{What are our resources?}
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+    Massive company
+  \item
+    Potential for exploitation / damage
+  \end{enumerate}
 \item
   What should we do?
 \end{enumerate}

@@ -86,7 +86,27 @@ html {
             <h2 id="not-protecting-from">Not Protecting from…</h2>
             <ul>
             <li><p>Organized, state-supported exploits</p></li>
-            <li><p>Third party authorization and our hosting partners</p></li>
+            <li><p>Third party authorization and our hosting partners (AWS S3)</p></li>
+            <li><p>Intentional, non-data leaking misuses (DDOS; creating fake accounts, etc.)</p></li>
+            </ul>
+            <h1 id="what-methods-of-attacks-do-we-prevent">What methods of attacks do we prevent?</h1>
+            <h2 id="software-attacks">Software Attacks</h2>
+            <ul>
+            <li><p>Auth pipeline password cracking</p></li>
+            <li><p>Cross-site cookie sniffing</p></li>
+            <li><p>UI design</p></li>
+            </ul>
+            <h2 id="pipeline-attacks">Pipeline Attacks</h2>
+            <ul>
+            <li><p>Breaching of PAM on our pipeline (once it gets to AWS IAM, its their problem)</p></li>
+            <li><p>Breaching keys and cookies for our deployment system</p></li>
+            <li><p>Leaking signing keys</p></li>
+            </ul>
+            <h2 id="social-attacks">Social Attacks</h2>
+            <ul>
+            <li><p>Security misinformation (like self XSS via the JavaScript Console)</p></li>
+            <li><p>Weak passwords</p></li>
+            <li></li>
             </ul>
         </div>
 

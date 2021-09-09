@@ -159,8 +159,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}19394)}}    % original
-%\rhead{\textrmlf{Compiled }\#19394\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}19455)}}    % original
+%\rhead{\textrmlf{Compiled }\#19455\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -263,7 +263,53 @@ motivations?}\label{who-are-we-protecting-it-from-and-what-are-their-motivations
 \item
   Organized, state-supported exploits
 \item
-  Third party authorization and our hosting partners
+  Third party authorization and our hosting partners (AWS S3)
+\item
+  Intentional, non-data leaking misuses (DDOS; creating fake accounts,
+  etc.)
+\end{itemize}
+
+\hypertarget{what-methods-of-attacks-do-we-prevent}{%
+\section{What methods of attacks do we
+prevent?}\label{what-methods-of-attacks-do-we-prevent}}
+
+\hypertarget{software-attacks}{%
+\subsection{Software Attacks}\label{software-attacks}}
+
+\begin{itemize}
+\tightlist
+\item
+  Auth pipeline password cracking
+\item
+  Cross-site cookie sniffing
+\item
+  UI design
+\end{itemize}
+
+\hypertarget{pipeline-attacks}{%
+\subsection{Pipeline Attacks}\label{pipeline-attacks}}
+
+\begin{itemize}
+\tightlist
+\item
+  Breaching of PAM on our pipeline (once it gets to AWS IAM, its their
+  problem)
+\item
+  Breaching keys and cookies for our deployment system
+\item
+  Leaking signing keys
+\end{itemize}
+
+\hypertarget{social-attacks}{%
+\subsection{Social Attacks}\label{social-attacks}}
+
+\begin{itemize}
+\tightlist
+\item
+  Security misinformation (like self XSS via the JavaScript Console)
+\item
+  Weak passwords
+\item
 \end{itemize}
 
 \end{document}

@@ -49,11 +49,19 @@ source:  #KBCS240MasterIndex
 	1. Damaged financial well being 
 	2. Damaged emotional well being
 	3. Damaged physical well being 
+	4. Damage to company brand / ecosystem 
 
+5.  **What are their resources?**
+	1. Expertise and platform
+	2. Potential for money
+		- Which is a commodity 
+	3. Exploitable users
+	4. Some have financial resources
+	
+6.  **What are our resources?**
+	1. Massive company
+	2. Potential for exploitation / damage
 
-
-5.  What are their resources?
-6.  What are our resources?
 7.  What should we do?
 
 

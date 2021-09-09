@@ -20,4 +20,23 @@ The scope of Condution is has too narrow scope to protect anyone but direct Cond
 
 ** Not Protecting from...
 - Organized, state-supported exploits
-- Third party authorization and our hosting partners
+- Third party authorization and our hosting partners (AWS S3)
+- Intentional, non-data leaking misuses (DDOS; creating fake accounts, etc.)
+
+* What methods of attacks do we prevent?
+
+** Software Attacks
+- Auth pipeline password cracking
+- Cross-site cookie sniffing
+- UI design 
+
+** Pipeline Attacks
+- Breaching of PAM on our pipeline (once it gets to AWS IAM, its their problem)
+- Breaching keys and cookies for our deployment system
+- Leaking signing keys
+
+** Social Attacks
+- Security misinformation (like self XSS via the JavaScript Console)
+- Weak passwords
+- 
+  
