@@ -159,8 +159,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}19388)}}    % original
-%\rhead{\textrmlf{Compiled }\#19388\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}19394)}}    % original
+%\rhead{\textrmlf{Compiled }\#19394\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -246,12 +246,24 @@ motivations?}\label{who-are-we-protecting-it-from-and-what-are-their-motivations
 \item
   Advertisers who may want to advertise based on notes of users
 \item
-  Foreign companies who are attempting to access privileged information
+  Foreign companies and groups who are attempting to access privileged
+  information
 \item
   Bad actors looking to leverage a "weak-point" in a user's security
   profile
 \item
   Well-meaning but security-unconscious users
+\end{itemize}
+
+\hypertarget{not-protecting-from}{%
+\subsection{Not Protecting from\ldots{}}\label{not-protecting-from}}
+
+\begin{itemize}
+\tightlist
+\item
+  Organized, state-supported exploits
+\item
+  Third party authorization and our hosting partners
 \end{itemize}
 
 \end{document}

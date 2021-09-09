@@ -15,5 +15,6 @@ source:  #index
 [[KBxFirstTestReview]]
 [[KBxChapter1B]]
 [[KBxSolvingSystems]]
+[[KBxChessMovesandMoreReading]]
 
 

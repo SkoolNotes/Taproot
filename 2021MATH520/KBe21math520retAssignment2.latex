@@ -159,8 +159,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}19270)}}    % original
-%\rhead{\textrmlf{Compiled }\#19270\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}19401)}}    % original
+%\rhead{\textrmlf{Compiled }\#19401\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -413,7 +413,7 @@ why should the \(\dot x\) in the bottom be cubed?
 \[\begin{aligned}
    \frac{d}{dx} \frac{dy}{dx} = \frac{d}{dx} \left( \frac{\frac{dy}{dt}}{\frac{dx}{dt}} \right) = \frac{d}{dx} u = \frac{\frac{du}{dt}}{\frac{dx}{dt}}\\
    = \frac{\frac{d}{dt}u}{\frac{dx}{dt}} = \frac{\frac{d}{dt} \frac{\dot{y}}{\dot{x}} }{\dot{x}}\\
-   = \frac{ \frac{\dot{x}\ddot{y}-\dot{y}\ddot{x}}{\dot{x}}}{\dot{x}}
+   = \frac{ \frac{\dot{x}\ddot{y}-\dot{y}\ddot{x}}{\dot{x}^2}}{\dot{x}}
    \end{aligned}\]
 
 \end{document}

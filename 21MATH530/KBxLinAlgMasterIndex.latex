@@ -159,8 +159,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}18613)}}    % original
-%\rhead{\textrmlf{Compiled }\#18613\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}19422)}}    % original
+%\rhead{\textrmlf{Compiled }\#19422\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -217,5 +217,6 @@
 {[}{[}KBxLInAlgDayTwo{]}{]} {[}{[}KBxGroupAndMatricesIntro{]}{]}
 {[}{[}KBxChapter1aReview{]}{]} {[}{[}KBxFirstTestReview{]}{]}
 {[}{[}KBxChapter1B{]}{]} {[}{[}KBxSolvingSystems{]}{]}
+{[}{[}KBxChessMovesandMoreReading{]}{]}
 
 \end{document}

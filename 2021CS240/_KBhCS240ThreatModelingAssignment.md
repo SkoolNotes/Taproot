@@ -31,8 +31,13 @@ interfaces to Condution.
 ## Protecting from...
 
 -   Advertisers who may want to advertise based on notes of users
--   Foreign companies who are attempting to access privileged
+-   Foreign companies and groups who are attempting to access privileged
     information
 -   Bad actors looking to leverage a \"weak-point\" in a user\'s
     security profile
 -   Well-meaning but security-unconscious users
+
+## Not Protecting from...
+
+-   Organized, state-supported exploits
+-   Third party authorization and our hosting partners
