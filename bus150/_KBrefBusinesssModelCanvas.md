@@ -2,7 +2,20 @@
 title: Business Model Canvases
 ---
 
--   what sectors are interesting
--   is layout important or can I do it as a text document
+# customer segments
 
-# 
+# value props
+
+# customer relationships
+
+# channels
+
+# key activies
+
+# key resources
+
+# key partners
+
+# revenue streams
+
+# cost structure

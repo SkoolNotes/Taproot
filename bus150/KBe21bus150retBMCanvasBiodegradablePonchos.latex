@@ -146,7 +146,8 @@
 
 
 \newcommand{\thecourse}{  }
-\newcommand{\thelesson}{ Deriving Rotational Energy }
+\newcommand{\thelesson}{ Business Model Canvas for Biodegradable
+Ponchos }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -159,12 +160,12 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}19569)}}    % original
-%\rhead{\textrmlf{Compiled }\#19569\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}19584)}}    % original
+%\rhead{\textrmlf{Compiled }\#19584\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
-\lfoot{Houjun Liu \(\cdot\) \textbf{2020-2021}}
+\lfoot{Taproot \(\cdot\) \textbf{2021-2022}}
 \rfoot{\textrmlf{Page} \thepage \textrmlf{ of } \pageref{LastPage}}
 
 
@@ -210,131 +211,114 @@
 
 % DID YOU SET SPELL????
 
-\hypertarget{position-of-m_i}{%
-\section{\texorpdfstring{Position of
-\(m_i\)}{Position of m\_i}}\label{position-of-m_i}}
+\hypertarget{customer-segments}{%
+\section{customer segments}\label{customer-segments}}
 
-In a rigid body consisting of \(N\) point masses, the vector to the
-position of \(m_i\) is defined as \(\vec{r_i(t)}\), which is defined as
-follows:
+\hypertarget{travelers}{%
+\subsection{travelers}\label{travelers}}
 
-\begin{equation}
-    \vec{r_i(t)} = \vec{R_{CM}(t)} + \vec{r_i}'(t)
-\end{equation}
+\hypertarget{hikers}{%
+\subsection{hikers}\label{hikers}}
 
-whereas, \(\vec{R_{CM}(t)}\) is the position vector of the center of
-mass of the rigid body as a whole, and \(\vec{r_i}'(t)\) the vector from
-the center of mass to \(m_i\).
+\hypertarget{environmentally-conscious-people}{%
+\subsection{environmentally conscious
+people}\label{environmentally-conscious-people}}
 
-\hypertarget{velocity-of-m_i}{%
-\section{\texorpdfstring{Velocity of
-\(m_i\)}{Velocity of m\_i}}\label{velocity-of-m_i}}
+\hypertarget{value-props}{%
+\section{value props}\label{value-props}}
 
-The velocity of \(m_i\) is simply determined by the first derivative of
-the position equation as per above. Namely, that:
+\hypertarget{dont-feel-bad-about-throwing-away-plastic}{%
+\subsection{don't feel bad about throwing away
+plastic}\label{dont-feel-bad-about-throwing-away-plastic}}
 
-\begin{equation}
-    \vec{v_i(t)} = \vec{V_{CM}(t)} + \vec{v_i}'(t)
-\end{equation}
+\hypertarget{disposable-in-the-wilderness}{%
+\subsection{disposable in the
+wilderness}\label{disposable-in-the-wilderness}}
 
-where, \(\vec{v_i(t)}\) is the velocity vector of \(m_i\), and
-\(\vec{V_{CM}(t)}\) is the velocity vector of the center of mass of the
-rigid body, and \(\vec{v_i}'(t)\) is the velocity vector from center of
-mass to \(m_i\).
+\hypertarget{customer-relationships}{%
+\section{customer relationships}\label{customer-relationships}}
 
-\hypertarget{deriving-ke_total}{%
-\section{\texorpdfstring{Deriving
-\(KE_{total}\)}{Deriving KE\_\{total\}}}\label{deriving-ke_total}}
+\hypertarget{hipeco-image}{%
+\subsection{hip/eco image}\label{hipeco-image}}
 
-\hypertarget{setting-up}{%
-\subsection{Setting up}\label{setting-up}}
+\hypertarget{stories-of-how-this-saves-people-and-the-environment}{%
+\subsection{stories of how this saves people and the
+environment}\label{stories-of-how-this-saves-people-and-the-environment}}
 
-From definition of \(KE_{total}\) itself, \(KE_{total}\) is the sum of
-all energies of each point mass in the rigid body.
+\hypertarget{channels}{%
+\section{channels}\label{channels}}
 
-\begin{equation}
-    \sum^N_{i=1} \frac{1}{2}m_iv_i^2
-\end{equation}
+\hypertarget{website}{%
+\subsection{website}\label{website}}
 
-\hypertarget{derivation-part-1}{%
-\subsection{Derivation, part 1}\label{derivation-part-1}}
+\hypertarget{stores-retailers}{%
+\subsection{stores / retailers}\label{stores-retailers}}
 
-Expanding this equation and substituting the value of \(v_i\), and
-additionally setting \(M = \sum m_i\) (namely, that \(M\) represents the
-total mass of the rigid body) we could derive:
+\hypertarget{social-media}{%
+\subsection{social media}\label{social-media}}
 
-\begin{align}
-    \sum^N_{i=1} \frac{1}{2}m_iv_i^2 =& \sum^N_{i=1} \frac{1}{2}m_i(v_i \cdot v_i) \\
-    =& \sum^N_{i=1} \frac{1}{2}m_i((\vec{V_{CM}} + \vec{v_i}') \cdot (\vec{V_{CM}} + \vec{v_i}')) \\
-    =& \sum^N_{i=1} \frac{1}{2}m_i(\vec{V_{CM}}^2 + 2 \times (\vec{v_i}' \cdot \vec{V_{CM}}) + \vec{v_i}'^2)) \\
-    =& \sum^N_{i=1} \frac{1}{2}m_i\vec{V_{CM}}^2 + \sum^N_{i=1} m_i \times (\vec{v_i}' \cdot \vec{V_{CM}}) + \sum^N_{i=1} \frac{1}{2}m_i\vec{v_i}'^2 \\
-    =& \frac{1}{2} \vec{V_{CM}}^2 \sum^N_{i=1} m_i + \vec{V_{CM}} \sum^N_{i=1} m_i \vec{v_i}' + \sum^N_{i=1} \frac{1}{2}m_i\vec{v_i}'^2
-\end{align}
+\hypertarget{packager-partnerships}{%
+\subsection{packager partnerships}\label{packager-partnerships}}
 
-\hypertarget{dealing-with-the-middle-term}{%
-\subsection{Dealing with the Middle
-Term}\label{dealing-with-the-middle-term}}
+\hypertarget{selling-first-aid-kits}{%
+\subsubsection{selling first aid kits}\label{selling-first-aid-kits}}
 
-At this point, we must note that \(\sum^N_{i=1} m_i \vec{v_i}' = 0\).
-Per the definition of the center of mass, the following holds:
+\hypertarget{adventure-scout-guide-companies}{%
+\subsubsection{adventure / scout / guide
+companies}\label{adventure-scout-guide-companies}}
 
-\begin{equation}
-    \vec{r_{CM}} = (\frac{1}{M}) \sum_i m_i \vec{r_i}
-\end{equation}
+\hypertarget{key-activies}{%
+\section{key activies}\label{key-activies}}
 
-Changing reference frame to that of the center of mass itself, this
-equation therefore becomes:
+\hypertarget{developing-materials}{%
+\subsection{developing materials}\label{developing-materials}}
 
-\begin{equation}
-    \vec{r_{CM}}' = (\frac{1}{M}) \sum_i m_i \vec{r_i}'
-\end{equation}
+\hypertarget{producing-products}{%
+\subsection{producing products}\label{producing-products}}
 
-It is important to realize here that \(\vec{r_{CM}}' = 0\) because of
-the fact that --- at the reference point of the center of mass, the
-center of mass is at a zero-vector distance away from itself.
+\hypertarget{supply-chain-management}{%
+\subsubsection{supply chain management}\label{supply-chain-management}}
 
-In order to figure a statement with respect to the \emph{velocity} of
-\(r_i'\), we take the derivative of the previous equation with respect
-to time.
+\hypertarget{partnerships}{%
+\subsection{partnerships}\label{partnerships}}
 
-\begin{align}
-    0 =& (\frac{1}{M}) \sum_i m_i \vec{r_i}' \\
-    \Rightarrow& \frac{d}{dt} (\frac{1}{M}) \sum_i m_i \vec{r_i}' \\
-    =& (\frac{1}{M}) \sum_i m_i \vec{v_i}'
-\end{align}
+\hypertarget{key-resources}{%
+\section{key resources}\label{key-resources}}
 
-Given that \(\frac{1}{M}\) could not be zero for an object with non-zero
-mass, it is concluded therefore that \(\sum_i m_i \vec{v_i}' = 0\).
+\hypertarget{labs}{%
+\subsection{labs}\label{labs}}
 
-\hypertarget{derivation-part-2}{%
-\subsection{Derivation, part 2}\label{derivation-part-2}}
+\hypertarget{factories}{%
+\subsection{factories}\label{factories}}
 
-As \(\sum_i m_i \vec{v_i}' = 0\), the \(KE_{total}\) work-in-progress
-equation's middle term (which contains the statement
-\(\sum_i m_i \vec{v_i}'\)) is therefore zero. Substituting that in and
-removing the term, we therefore result in:
+\hypertarget{key-partners}{%
+\section{key partners}\label{key-partners}}
 
-\begin{equation}
-     \sum^N_{i=1} \frac{1}{2}m_iv_i^2 = \frac{1}{2} \vec{V_{CM}}^2 \sum^N_{i=1} m_i + \sum^N_{i=1} \frac{1}{2}m_i\vec{v_i}'^2
-\end{equation}
+\hypertarget{retailers}{%
+\subsection{retailers}\label{retailers}}
 
-Replacing the definition of \(M = \sum m_i\), we result in
+\hypertarget{sponsored-groups}{%
+\subsection{sponsored groups}\label{sponsored-groups}}
 
-\begin{align}
-     \sum^N_{i=1} \frac{1}{2}m_iv_i^2 &= \frac{1}{2} M \vec{V_{CM}}^2 + \sum^N_{i=1} \frac{1}{2}m_i\vec{v_i}'^2 \\
-     KE_{total} &= \frac{1}{2} M \vec{V_{CM}}^2 + \sum^N_{i=1} \frac{1}{2}m_i\vec{v_i}'^2
-\end{align}
+\hypertarget{revenue-streams}{%
+\section{revenue streams}\label{revenue-streams}}
 
-The left term of this equation (\(\frac{1}{2} M \vec{V_{CM}}^2\)) is the
-clear original statement for \(KE_{translational}\). As component masses
-of a rigid body cannot experience translational motion about its center
-of origin, the second term is therefore rotational only and so
-\(KE_{rotational}\).
+\hypertarget{sales}{%
+\subsection{sales}\label{sales}}
 
-Therefore:
+\hypertarget{cost-structure}{%
+\section{cost structure}\label{cost-structure}}
 
-\begin{equation}
-    KE_{total} = KE_{translational}+KE_{rotational}
-\end{equation}
+\hypertarget{mostly-factories}{%
+\subsection{mostly factories}\label{mostly-factories}}
+
+\hypertarget{products}{%
+\section{products}\label{products}}
+
+\hypertarget{ponchos}{%
+\subsection{ponchos}\label{ponchos}}
+
+\hypertarget{bandaids}{%
+\subsection{bandaids}\label{bandaids}}
 
 \end{document}

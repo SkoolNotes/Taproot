@@ -65,3 +65,20 @@ sign.
 ## Deriving the Value of Kinetic Energy
 
 [See here.](KBhPHYS360RotationalKineticEnergyDerivation.org)
+
+# Actually using Rotational Kinetic Energy
+
+This:
+
+```{=latex}
+\begin{equation}
+    \vec{v} = r_i \times w
+\end{equation}
+```
+But um. He won\'t tell us. Also, defining center of mass:
+
+```{=latex}
+\begin{equation}
+CM \equiv \frac{1}{M} \sum m_i \vec{r_i}
+\end{equation}
+```

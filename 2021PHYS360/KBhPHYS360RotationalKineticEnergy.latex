@@ -159,8 +159,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}19228)}}    % original
-%\rhead{\textrmlf{Compiled }\#19228\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}19583)}}    % original
+%\rhead{\textrmlf{Compiled }\#19583\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -268,5 +268,21 @@ point at the direction of rotation and hence you could assign a sign.
 Energy}\label{deriving-the-value-of-kinetic-energy}}
 
 \href{KBhPHYS360RotationalKineticEnergyDerivation.org}{See here.}
+
+\hypertarget{actually-using-rotational-kinetic-energy}{%
+\section{Actually using Rotational Kinetic
+Energy}\label{actually-using-rotational-kinetic-energy}}
+
+This:
+
+\begin{equation}
+    \vec{v} = r_i \times w
+\end{equation}
+
+But um. He won't tell us. Also, defining center of mass:
+
+\begin{equation}
+CM \equiv \frac{1}{M} \sum m_i \vec{r_i}
+\end{equation}
 
 \end{document}

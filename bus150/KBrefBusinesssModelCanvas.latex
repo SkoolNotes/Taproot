@@ -159,12 +159,12 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}17845)}}    % original
-%\rhead{\textrmlf{Compiled }\#17845\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}19567)}}    % original
+%\rhead{\textrmlf{Compiled }\#19567\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
-\lfoot{Taproot \(\cdot\) \textbf{2020-2021}}
+\lfoot{Taproot \(\cdot\) \textbf{2021-2022}}
 \rfoot{\textrmlf{Page} \thepage \textrmlf{ of } \pageref{LastPage}}
 
 
@@ -210,15 +210,31 @@
 
 % DID YOU SET SPELL????
 
-\begin{itemize}
-\tightlist
-\item
-  what sectors are interesting
-\item
-  is layout important or can I do it as a text document
-\end{itemize}
+\hypertarget{customer-segments}{%
+\section{customer segments}\label{customer-segments}}
 
-\hypertarget{section}{%
-\section{}\label{section}}
+\hypertarget{value-props}{%
+\section{value props}\label{value-props}}
+
+\hypertarget{customer-relationships}{%
+\section{customer relationships}\label{customer-relationships}}
+
+\hypertarget{channels}{%
+\section{channels}\label{channels}}
+
+\hypertarget{key-activies}{%
+\section{key activies}\label{key-activies}}
+
+\hypertarget{key-resources}{%
+\section{key resources}\label{key-resources}}
+
+\hypertarget{key-partners}{%
+\section{key partners}\label{key-partners}}
+
+\hypertarget{revenue-streams}{%
+\section{revenue streams}\label{revenue-streams}}
+
+\hypertarget{cost-structure}{%
+\section{cost structure}\label{cost-structure}}
 
 \end{document}
