@@ -11,6 +11,7 @@ context: HIST301
 - [[KBxIndigenousPeoplesHistoftheUS]]
 - [[KBxIndigenousPeoplesHistoftheUSNotes]]
 - [[KBxSlaveryandFreedomTheAmericanParadox]]
+- [[KBxPilgrimsAndPuritans]]
 
 Barry!
 - [[KBhHIST301Lenses]]

@@ -90,11 +90,29 @@ html {
             <p>But, its a vector! So there is an actual "direction" of rotation. If you have an object that’s rotating and an axis for that rotation, take your fingers to the direction by which the object is rotating, your thumb is point at the direction of rotation and hence you could assign a sign.</p>
             <h2 id="deriving-the-value-of-kinetic-energy">Deriving the Value of Kinetic Energy</h2>
             <p><a href="KBhPHYS360RotationalKineticEnergyDerivation.org">See here.</a></p>
+            <p>In summary,</p>
+            <p><span class="math display">\[KE_{total} = \frac{1}{2} M \vec{V_{CM}}^2 + \sum^N_{i=1} \frac{1}{2}m_i\vec{v_i}&#39;^2\]</span></p>
             <h1 id="actually-using-rotational-kinetic-energy">Actually using Rotational Kinetic Energy</h1>
             <p>This:</p>
             <p><span class="math display">\[\vec{v} = r_i \times w\]</span></p>
             <p>But um. He won’t tell us. Also, defining center of mass:</p>
             <p><span class="math display">\[CM \equiv \frac{1}{M} \sum m_i \vec{r_i}\]</span></p>
+            <p>To fully define rotation, we need to know both the <em>axis</em> around which it is rotating. The act of rotation, at an instant, will be around a specific axis "always".</p>
+            <p>Given <span class="math inline">\(m_i\)</span>, mass, <span class="math inline">\(\vec{r_i}&#39;\)</span>, location of the center of mass, <span class="math inline">\(l_i\)</span>, <span class="math inline">\(\omega\)</span>, the angular velocity, figure a <span class="math inline">\(KE_{tot,rot}\)</span>.</p>
+            <p>Because of the fact that the value <span class="math inline">\(\omega\)</span> is in units <span class="math inline">\(\frac{d\theta}{dt}\)</span>, the rate of radians change, and we know of a radius of the spin <span class="math inline">\(l_i\)</span>, we could figure the velocity at which it is moving by simply scaling the change in radians up to a circle of radius <span class="math inline">\(l_i\)</span>, that is:</p>
+            <p><span class="math display">\[V_i&#39; = l_i \omega\]</span></p>
+            <p>(note that, to understand this, radians <span class="math inline">\(\frac{arc length}{radius}\)</span>)</p>
+            <p>And so, substituting into the statement of <span class="math inline">\(\sum^N_{i=1} \frac{1}{2}m_i\vec{v_i}&#39;^2\)</span></p>
+            <p><span class="math display">\[\begin{aligned}
+                KE_{rot} =&amp; \sum^N_{i=1} \frac{1}{2}m_i\vec{v_i}&#39;^2 \\
+                =&amp; \sum^N_{i=1} \frac{1}{2}m_i(l_i \omega)^2 \\
+                =&amp; \sum^N_{i=1} \frac{1}{2}m_i l_i^2 \omega^2 \\
+                =&amp; \frac{1}{2}\omega^2 \sum^N_{i=1} (m_i l_i^2)\end{aligned}\]</span></p>
+            <h2 id="rotational-inertia">Rotational Inertia</h2>
+            <p>The right sum — the mass times the distance away from maxis of rotation (<span class="math inline">\(\sum^N_{i=1} (m_i l_i^2)\)</span>) — is defined as the rotational (moment) of inertia (spinny mass). Hence:</p>
+            <p><span class="math display">\[I = \sum^N_{i=1} (m_i l_i^2)\]</span></p>
+            <p>But it’s like not the same thing as <a href="KBhPHYS360Impulse.org">impulse</a>. The two $I$s does not relate to each other.</p>
+            <p>Intuitively, "inertia" is the resistance to movement. Moment of Inertia is the object’s unwillingness to be rotated.</p>
         </div>
 
         <script>

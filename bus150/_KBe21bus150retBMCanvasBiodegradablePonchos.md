@@ -71,3 +71,5 @@ title: Business Model Canvas for Biodegradable Ponchos
 ## ponchos
 
 ## bandaids
+
+## is it possible to make it both temporarily waterproof and biodegradable
