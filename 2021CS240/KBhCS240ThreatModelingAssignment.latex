@@ -159,8 +159,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}19488)}}    % original
-%\rhead{\textrmlf{Compiled }\#19488\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}19498)}}    % original
+%\rhead{\textrmlf{Compiled }\#19498\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -267,7 +267,18 @@ motivations?}\label{who-are-we-protecting-it-from-and-what-are-their-motivations
 \item
   Intentional, non-data leaking misuses (DDOS; creating fake accounts,
   etc.)
+\item
+  Authorized third-party access without prior credential-sharing
 \end{itemize}
+
+As the on-site hosting and UI is the primary service that Condution is
+providing, it is not useful to divert time in preventing the intentional
+or accidentally shutdown of the reference server. Although, it is useful
+to use services like Cloudflare as a no-effort prevention for such
+attacks.
+
+Also, user data is also locally backed up. Hence, it is possible to
+restore services by simply hosting another instance and restoring data.
 
 \hypertarget{what-methods-of-attacks-do-we-prevent}{%
 \section{What methods of attacks do we
@@ -393,5 +404,28 @@ security breaches --- to request emergency help from AWS and GCP. Due to
 the fact that our interests generally align with theirs with respect to
 user data safety, they already have systems in place to perform
 emergency triage and freeze data to protect security.
+
+\hypertarget{what-should-we-do}{%
+\section{What should we do?}\label{what-should-we-do}}
+
+\begin{enumerate}
+\tightlist
+\item
+  Align and protect resources and partnerships with hosting services to
+  allow emergency triage
+\item
+  Secure CI/CD pipelines and update services to authorized users, with
+  two-factor PAM authentication
+\item
+  Implement warnings and education for password security (forcing users
+  to choose more secure passwords, providing self XSS warnings in the
+  console, etc.)
+\item
+  Create systems for data shutdown, reversal, and freezing in case of
+  emergency and to comply with privacy laws
+\item
+  Scan for cookie signatures on the internet (via security services like
+  Pingdom) to analyze for public leaks of user security information
+\end{enumerate}
 
 \end{document}

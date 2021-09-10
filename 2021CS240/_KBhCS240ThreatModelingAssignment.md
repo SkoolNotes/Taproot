@@ -43,6 +43,16 @@ interfaces to Condution.
 -   Third party authorization and our hosting partners (AWS S3)
 -   Intentional, non-data leaking misuses (DDOS; creating fake accounts,
     etc.)
+-   Authorized third-party access without prior credential-sharing
+
+As the on-site hosting and UI is the primary service that Condution is
+providing, it is not useful to divert time in preventing the intentional
+or accidentally shutdown of the reference server. Although, it is useful
+to use services like Cloudflare as a no-effort prevention for such
+attacks.
+
+Also, user data is also locally backed up. Hence, it is possible to
+restore services by simply hosting another instance and restoring data.
 
 # What methods of attacks do we prevent?
 
@@ -128,4 +138,13 @@ emergency triage and freeze data to protect security.
 
 1.  Align and protect resources and partnerships with hosting services
     to allow emergency triage
-2.  Secure pipelines
+2.  Secure CI/CD pipelines and update services to authorized users, with
+    two-factor PAM authentication
+3.  Implement warnings and education for password security (forcing
+    users to choose more secure passwords, providing self XSS warnings
+    in the console, etc.)
+4.  Create systems for data shutdown, reversal, and freezing in case of
+    emergency and to comply with privacy laws
+5.  Scan for cookie signatures on the internet (via security services
+    like Pingdom) to analyze for public leaks of user security
+    information

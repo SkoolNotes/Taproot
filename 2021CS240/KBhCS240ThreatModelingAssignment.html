@@ -88,7 +88,10 @@ html {
             <li><p>Organized, state-supported exploits</p></li>
             <li><p>Third party authorization and our hosting partners (AWS S3)</p></li>
             <li><p>Intentional, non-data leaking misuses (DDOS; creating fake accounts, etc.)</p></li>
+            <li><p>Authorized third-party access without prior credential-sharing</p></li>
             </ul>
+            <p>As the on-site hosting and UI is the primary service that Condution is providing, it is not useful to divert time in preventing the intentional or accidentally shutdown of the reference server. Although, it is useful to use services like Cloudflare as a no-effort prevention for such attacks.</p>
+            <p>Also, user data is also locally backed up. Hence, it is possible to restore services by simply hosting another instance and restoring data.</p>
             <h1 id="what-methods-of-attacks-do-we-prevent">What methods of attacks do we prevent?</h1>
             <h2 id="software-attacks">Software Attacks</h2>
             <p>Software attacks mostly center around attacking the user-facing (both server and client) software and exposing its vulnerabilities.</p>
@@ -133,6 +136,14 @@ html {
             <h1 id="what-are-our-resources">What are our resources?</h1>
             <p>Directly accessible resources are reasonably limited: have 8 engineers on all departments, limited cybersecurity experience, and only freely or cheaply available commercial tools for PAM, authentication, or security.</p>
             <p>However, it is possible — in cases with pipeline leaks and database security breaches — to request emergency help from AWS and GCP. Due to the fact that our interests generally align with theirs with respect to user data safety, they already have systems in place to perform emergency triage and freeze data to protect security.</p>
+            <h1 id="what-should-we-do">What should we do?</h1>
+            <ol>
+            <li><p>Align and protect resources and partnerships with hosting services to allow emergency triage</p></li>
+            <li><p>Secure CI/CD pipelines and update services to authorized users, with two-factor PAM authentication</p></li>
+            <li><p>Implement warnings and education for password security (forcing users to choose more secure passwords, providing self XSS warnings in the console, etc.)</p></li>
+            <li><p>Create systems for data shutdown, reversal, and freezing in case of emergency and to comply with privacy laws</p></li>
+            <li><p>Scan for cookie signatures on the internet (via security services like Pingdom) to analyze for public leaks of user security information</p></li>
+            </ol>
         </div>
 
         <script>
