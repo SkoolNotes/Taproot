@@ -40,10 +40,34 @@ $$\begin{aligned}
 
 ## concave down
 
-Using similar logic, the curve is concave down for $t < 0$.
+Using similar logic, the curve is concave down for $t \le 0$.
 
 # polar curves + converting to cartesian
 
 [polar sketches](KBe21math520retAssign3polarSketches.png)
 
 Also see the [desmos](https://www.desmos.com/calculator/y6bmz6asfc).
+
+# cardiod
+
+## sketch
+
+Oops I thought cosine was sine
+
+## crosses the origin
+
+Only hapens when $\theta = 0$.
+
+$$\begin{aligned}
+   r = 1 + 2 \cos  \theta  &= 0\\
+   2 \cos  \theta  &= -1\\
+   \cos  \theta &= -\frac{1}{2}\\
+   \theta &= \cos ^-  \left(-\frac{1}{2}\right)  \\
+   &= \frac{2\pi}{3}, -\frac{2\pi}{3}
+   \end{aligned}$$
+
+## derivatives to verify crossing
+
+$$\begin{aligned}
+   \frac{dy}{d\theta }
+   \end{aligned}$$

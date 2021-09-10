@@ -136,3 +136,58 @@ The two \$I\$s does not relate to each other.
 
 Intuitively, \"inertia\" is the resistance to movement. Moment of
 Inertia is the object\'s unwillingness to be rotated.
+
+## The Many Properties of an Object
+
+### Properties
+
+  Property   Linear             Rotational
+  ---------- ------------------ -----------------------
+  Inertia    $M$                $I$
+  Velocity   $V$                $\omega$
+  KE         $\frac{1{2}Mv^2$   $\frac{1}{2}\omega^2$
+
+### Densities
+
+  Symbol               Density          Explanation
+  -------------------- ---------------- ------------------
+  $\rho$ (rho)         Volume density   $\frac{kg}{m^3}$
+  $\sigma$ (sigma)     Area density     $\frac{kg}{m^2}$
+  $\lambda$ (lambda)   Linear density   $\frac{kg}{m}$
+
+## Moment of Inertia of a Flat Disk
+
+For a solid object, to calculate the rotational inertia will essentially
+be the sums of all rings.
+
+```{=latex}
+\begin{equation}
+    I = \int_0^d M(r)R^2 dr
+\end{equation}
+```
+```{=latex}
+\begin{equation}
+    max(m(a) = 2\pi r c \lambda
+\end{equation}
+```
+Substituting that in.
+
+```{=latex}
+\begin{equation}
+I = \int_0^d 2\pi c \lambda r^3 dr
+\end{equation}
+```
+Integrating it:
+
+```{=latex}
+\begin{equation}
+I = \frac{1}{2} \pi c \lambda r^4 \mid^d_0
+\end{equation}
+```
+And then something happens that I am not entirely sure about:
+
+```{=latex}
+\begin{equation}
+    I = \frac{1}{2} M R^2
+\end{equation}
+```

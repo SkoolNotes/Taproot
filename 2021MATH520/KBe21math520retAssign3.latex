@@ -159,8 +159,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}19421)}}    % original
-%\rhead{\textrmlf{Compiled }\#19421\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}19648)}}    % original
+%\rhead{\textrmlf{Compiled }\#19648\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -255,7 +255,7 @@ vertical}\label{tangents-are-horizontal-or-vertical}}
 \hypertarget{concave-down}{%
 \subsection{concave down}\label{concave-down}}
 
-Using similar logic, the curve is concave down for \(t < 0\).
+Using similar logic, the curve is concave down for \(t \le 0\).
 
 \hypertarget{polar-curves-converting-to-cartesian}{%
 \section{polar curves + converting to
@@ -265,5 +265,34 @@ cartesian}\label{polar-curves-converting-to-cartesian}}
 
 Also see the
 \href{https://www.desmos.com/calculator/y6bmz6asfc}{desmos}.
+
+\hypertarget{cardiod}{%
+\section{cardiod}\label{cardiod}}
+
+\hypertarget{sketch}{%
+\subsection{sketch}\label{sketch}}
+
+Oops I thought cosine was sine
+
+\hypertarget{crosses-the-origin}{%
+\subsection{crosses the origin}\label{crosses-the-origin}}
+
+Only hapens when \(\theta = 0\).
+
+\[\begin{aligned}
+   r = 1 + 2 \cos  \theta  &= 0\\
+   2 \cos  \theta  &= -1\\
+   \cos  \theta &= -\frac{1}{2}\\
+   \theta &= \cos ^-  \left(-\frac{1}{2}\right)  \\
+   &= \frac{2\pi}{3}, -\frac{2\pi}{3}
+   \end{aligned}\]
+
+\hypertarget{derivatives-to-verify-crossing}{%
+\subsection{derivatives to verify
+crossing}\label{derivatives-to-verify-crossing}}
+
+\[\begin{aligned}
+   \frac{dy}{d\theta }
+   \end{aligned}\]
 
 \end{document}

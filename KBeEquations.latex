@@ -159,8 +159,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}18740)}}    % original
-%\rhead{\textrmlf{Compiled }\#18740\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}19642)}}    % original
+%\rhead{\textrmlf{Compiled }\#19642\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -233,5 +233,17 @@
 
 \hypertarget{ab3-a3b3a2bb2a}{%
 \subsection{\texorpdfstring{\((a+b)^3 = a^3+b^3+a^2b+b^2a\)}{(a+b)\^{}3 = a\^{}3+b\^{}3+a\^{}2b+b\^{}2a}}\label{ab3-a3b3a2bb2a}}
+
+\hypertarget{taylor-series}{%
+\section{taylor series}\label{taylor-series}}
+
+\hypertarget{fx-text-near-a-fa-fracfa2x2-fracfa3x3}{%
+\subsection{\texorpdfstring{\(f(x) \text{ near } a = f(a) + \frac{f'(a)}{2}x^2 + \frac{f''(a)}{3!}x^3\)}{f(x) \textbackslash text\{ near \} a = f(a) + \textbackslash frac\{f'(a)\}\{2\}x\^{}2 + \textbackslash frac\{f''(a)\}\{3!\}x\^{}3}}\label{fx-text-near-a-fa-fracfa2x2-fracfa3x3}}
+
+\hypertarget{polar}{%
+\section{polar}\label{polar}}
+
+\hypertarget{eitheta-cos-theta-i-sin-theta}{%
+\subsection{\texorpdfstring{\(e^{i\theta} = \cos  \theta  + i \sin \theta\)}{e\^{}\{i\textbackslash theta\} = \textbackslash cos  \textbackslash theta  + i \textbackslash sin \textbackslash theta}}\label{eitheta-cos-theta-i-sin-theta}}
 
 \end{document}
