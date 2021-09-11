@@ -145,8 +145,8 @@
 \makesavenoteenv{longtable}
 
 
-\newcommand{\thecourse}{  }
-\newcommand{\thelesson}{ Assignment 3: arclength }
+\newcommand{\thecourse}{ HIST301 }
+\newcommand{\thelesson}{ HIST301 Origin Essay Planning }
 
 \title{\textbf{\thecourse}\thelesson}
 
@@ -159,12 +159,12 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}19676)}}    % original
-%\rhead{\textrmlf{Compiled }\#19676\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}19680)}}    % original
+%\rhead{\textrmlf{Compiled }\#19680\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
-\lfoot{Taproot \(\cdot\) \textbf{2021-2022}}
+\lfoot{Dylan Wallace \(\cdot\) \textbf{2020-2021}}
 \rfoot{\textrmlf{Page} \thepage \textrmlf{ of } \pageref{LastPage}}
 
 
@@ -210,96 +210,31 @@
 
 % DID YOU SET SPELL????
 
-\hypertarget{shoestring-loop}{%
-\section{shoestring loop}\label{shoestring-loop}}
+\hypertarget{prompt}{%
+\section{Prompt}\label{prompt}}
 
-\[\begin{aligned}
-  x &= t^2\\
-  y &= t^3-3t\\
-  \frac{dx}{dt} &= 2t\\
-  \frac{dy}{dt} &= 3t^2-3\\
-  \frac{dy}{dx} &= \frac{3t^2-3}{2t}
-  \end{aligned}\]
+\begin{verbatim}
+The telling of American history has become one of the focal points of conflicts over our national culture,
+particularly the relationship between ideas of American exceptionalism and stories of race and conquest in 
+US history. What is the value of a shared national narrative and what dangers does crafting such a narrative 
+present? Why does the telling of US history generate such controversy?
 
-\hypertarget{tangents-are-horizontal-or-vertical}{%
-\subsection{tangents are horizontal or
-vertical}\label{tangents-are-horizontal-or-vertical}}
+In a 2-3 page, double spaced essay, evaluate how the authors we’ve read so far approach the telling of 
+American history and make an argument for what you see as the key considerations in constructing a narrative
+of early American history. Historical narratives, by their nature, are created through choices of what to 
+include and what not, what to emphasize and what to relegate to the margins. In making your argument, include 
+an explicit engagement with the sources we’ve worked with so far. You might, for example, engage with the 
+controversy over the 1619 project, with Dunbar-Ortiz’s criticism of multiculturalism or with Richter’s 
+geographical positioning of history.
+\end{verbatim}
 
-\hypertarget{horizontal}{%
-\subsubsection{horizontal}\label{horizontal}}
+\hypertarget{outline}{%
+\section{Outline}\label{outline}}
 
-\[\begin{aligned}
-    3t^2-3 &= 0\\
-    3t^2 &= 3\\
-    t^2 &= 1\\
-    t &= \pm 1
-    \end{aligned}\]
-
-\hypertarget{vertical}{%
-\subsubsection{vertical}\label{vertical}}
-
-\[\begin{aligned}
-    2t &= 0\\
-    t &= 0\\
-    \end{aligned}\]
-
-\hypertarget{concave-up}{%
-\subsection{concave up}\label{concave-up}}
-
-\[\begin{aligned}
-   \frac{d}{dx} \frac{dy}{dx} = \frac{\dot{x}\ddot{y}-\dot{y}\ddot{x}}{\dot{x}^3} = \frac{2t(6t)-(6t^2-3)(2)}{8t^3}\\
-   = \frac{6t^2-6t^2+3}{4t^3} = \frac{3}{4t^3} > 0\\
-   \therefore \text{concave up for }t > 0
-   \end{aligned}\]
-
-\hypertarget{concave-down}{%
-\subsection{concave down}\label{concave-down}}
-
-Using similar logic, the curve is concave down for \(t \le 0\).
-
-\hypertarget{polar-curves-converting-to-cartesian}{%
-\section{polar curves + converting to
-cartesian}\label{polar-curves-converting-to-cartesian}}
-
-\href{KBe21math520retAssign3polarSketches.png}{polar sketches}
-
-Also see the
-\href{https://www.desmos.com/calculator/y6bmz6asfc}{desmos}.
-
-\hypertarget{cardiod}{%
-\section{cardiod}\label{cardiod}}
-
-\hypertarget{sketch}{%
-\subsection{sketch}\label{sketch}}
-
-Oops I thought cosine was sine
-
-\hypertarget{crosses-the-origin}{%
-\subsection{crosses the origin}\label{crosses-the-origin}}
-
-Only hapens when \(\theta = 0\).
-
-\[\begin{aligned}
-   r = 1 + 2 \cos  \theta  &= 0\\
-   2 \cos  \theta  &= -1\\
-   \cos  \theta &= -\frac{1}{2}\\
-   \theta &= \cos ^-  \left(-\frac{1}{2}\right)  \\
-   &= \frac{2\pi}{3}, -\frac{2\pi}{3}
-   \end{aligned}\]
-
-\hypertarget{derivatives-to-verify-crossing}{%
-\subsection{derivatives to verify
-crossing}\label{derivatives-to-verify-crossing}}
-
-\[\begin{aligned}
-   y &= r \sin  \theta  = (1 + 2 \cos  \theta) \sin  \theta = \sin  \theta + 2 \cos  \theta  \sin  \theta = \sin  \theta  + \sin  2\theta\\
-   x &= r \cos  \theta  = (1 + 2 \cos  \theta ) \cos \theta = \cos  \theta  + 2 \cos^2 \theta  \\
-   \frac{dy}{d\theta } &= \cos  \theta  + 2 \cos 2 \theta \implies -\frac{1}{2} + 2(-\frac{1}{2})= - \frac{3}{2}
-   \frac{dx}{d\theta } &= -\sin  \theta - 2 (2 \cos  \theta ) \sin \theta = - \sin  \theta - 2 \sin  2 \theta = -\frac{\sqrt{3}}{2} - 2 (- \frac{\sqrt{3}}{2})\\
-   \frac{d^2y}{d\theta ^2} &= -\sin  \theta - 4 \sin  2 \theta \\
-   \frac{d^2x}{d\theta ^2} &= -\cos \theta - 4 \cos  2 \theta\\
-   \frac{dy}{dx} &= \frac{\dot{y}}{\dot{x}} = -\frac{ \cos  \theta + 2 \cos 2 \theta}{\sin  \theta + 2 \sin  2 \theta }\\
-   \frac{dy^2}{dx^2} &= \frac{\dot{x}\ddot{y} - \ddot{x}\dot{y}}{\dot{x}^3} = 
-   \end{aligned}\]
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Thesis}: We are seeing a wave in the educational
+\end{itemize}
 
 \end{document}
