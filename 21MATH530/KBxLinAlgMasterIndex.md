@@ -16,5 +16,6 @@ source:  #index
 [[KBxChapter1B]]
 [[KBxSolvingSystems]]
 [[KBxChessMovesandMoreReading]]
+[[KBx1CReflection]]
 
 

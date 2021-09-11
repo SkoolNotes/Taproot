@@ -45,11 +45,13 @@ demonstates the similarities between the two groups
 		- could have been purposeful
 	- founded plymouth
 	- created a 2.5k com focus life in a few years
+	- not a lot of historians
 - **Puritans**
 	- term was originally derogatory
 	- arrived in 1630 on the arbella and such
 	- granted right to settle bu Charles I
 	- founded boston!
+	- lotta historians
 - formed distinct communites but interacted
 - merged into Massachusetts bay in 1691
 
@@ -59,17 +61,41 @@ demonstates the similarities between the two groups
 like the jews escaping from egypt
 generalization: humans suffering under slavery, god has sympathy, divine providence, journey and promised land, god given entitlement 
 ```ad-def
-p
+**prov·i·dence**
+
+/ˈprävədəns/
+
+_noun_
+1.  the protective care of God or of nature as a spiritual power.
+    *"they found their trust in divine providence to be a source of comfort"*
+```
 also constitutes a foundation myth of the US
 
 
+```ad-abstract
+"the myths that made america"
+what it's really about, not the pilgrims and puritans.
+```
+
+america has been imagined in Europe as a utopia since the renaissance? 
+thus, obvi place to start a utopian society during the start of the 17th century
+
+the myth has led to idealized accounts of US hist
+the trope of the promised land has been used as a vehicle for radical cultural dissent
 
 
+### US as utopia
 
+US was thought of as utopian
+mainly in a religous context
+switched from finding a utopia to making a utopia
+yatta yatta, bunch of diff groups
 
+pilgrims and puritans were the most symbolically powerful
 
+oh jeez..
 
-
+[[KBdPilgrimsPuritans]] 
 
 
 
