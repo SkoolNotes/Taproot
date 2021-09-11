@@ -23,4 +23,14 @@ geographical positioning of history.
 
 # Outline
 
-- **Thesis**: We are seeing a wave in the educational 
+### Main idea
+There isn't a clear consensus as to what topics to discuss among scholars in regards to early American history (before 1776). Some scholars write mainly about the economic aspect of pre-independence history, whereas others may write mainly about the culture of the many groups that inhabited early North America. However, the two topics are not mutually exclusive, and in fact are causal: economics influence culture, and culture influences economics.
+
+### Progression
+1. Intro thing - present thesis
+2. Delve into intersection of culture and economics
+	1. Example 1
+	2. Example 2
+	3. etc.
+3. Conclusion: Why is this analysis style important?
+	1. More specifically, how does the "new view" of culture and economics being merged impact American history as a subject and how does that have an impact on current day politics/social dynamics/etc.?
