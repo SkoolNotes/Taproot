@@ -159,8 +159,8 @@
 \trim@spaces@in \thelesson
 \makeatother
 \lhead{\textbf{\thecourse} \thelesson}
-%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}19744)}}    % original
-%\rhead{\textrmlf{Compiled }\#19744\textrmlf{ on} \today }      % old date
+%\rhead{\textrmlf{Compiled} \today \textrmlf{\ ({\#}19763)}}    % original
+%\rhead{\textrmlf{Compiled }\#19763\textrmlf{ on} \today }      % old date
 \rhead{
     \today
     }       % new date
@@ -231,18 +231,59 @@ reflect:}\label{also-please-take-a-few-minutes-to-reflect}}
 
 \textbf{what skills (template skills or others that seem pertinent) or
 habits have you used:} - on the quizzes? - During the quizzes, I have of
-course had to use my knowledge of the content we have covered. - As for
-studying for the quizzes, I generally
+course had to use my knowledge of the content we have covered - As for
+studying for the quizzes, I generally review my notes prior, try to find
+the answers to my questions, then finally do some new exercises to find
+areas I don't understand well
 
 \begin{itemize}
+\tightlist
 \item
   in class?
+
+  \begin{itemize}
+  \tightlist
+  \item
+    I have a lot of fun in Linear Algebra, so I'm generally focused and
+    engaged in class
+  \item
+    I try to balance asking questions based on my curiosity and
+    disrupting the class / going on tangents
+  \item
+    I take extensive notes in my classes, to the point of damaging my
+    tendons when combined with my programming habits
+  \end{itemize}
 \item
   for homework exercises?
+
+  \begin{itemize}
+  \tightlist
+  \item
+    I generally get my homework done pretty soon after it is assigned,
+    and I do my best to find good answers to the questions. However, I
+    could spend more effort into making my homework clearer / prettier.
+  \item
+    I ask and answer / talk about a lot of questions about the homework
+    either in person with friends or on the Discord server I started and
+    maintain.
+  \end{itemize}
 \item
   when reading?
-\end{itemize}
 
-Please give a few examples.
+  \begin{itemize}
+  \tightlist
+  \item
+    I try to take good notes when I'm reading which I reference often in
+    class and with the homework. I sadly haven't been able to take notes
+    on 1.C, which I'm not happy about
+  \item
+    After I'm done reading, I do a few exercises then add them to my
+    notes
+  \item
+    All my notes go in a note sharing and linking ecosystem I created
+    with my friends called Taproot which we take notes in then link
+    together Wikipedia style
+  \end{itemize}
+\end{itemize}
 
 \end{document}

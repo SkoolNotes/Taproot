@@ -71,10 +71,13 @@ $$\begin{aligned}
 $$\begin{aligned}
    y &= r \sin  \theta  = (1 + 2 \cos  \theta) \sin  \theta = \sin  \theta + 2 \cos  \theta  \sin  \theta = \sin  \theta  + \sin  2\theta\\
    x &= r \cos  \theta  = (1 + 2 \cos  \theta ) \cos \theta = \cos  \theta  + 2 \cos^2 \theta  \\
-   \frac{dy}{d\theta } &= \cos  \theta  + 2 \cos 2 \theta \implies -\frac{1}{2} + 2(-\frac{1}{2})= - \frac{3}{2}
-   \frac{dx}{d\theta } &= -\sin  \theta - 2 (2 \cos  \theta ) \sin \theta = - \sin  \theta - 2 \sin  2 \theta = -\frac{\sqrt{3}}{2} - 2 (- \frac{\sqrt{3}}{2})\\
-   \frac{d^2y}{d\theta ^2} &= -\sin  \theta - 4 \sin  2 \theta \\
-   \frac{d^2x}{d\theta ^2} &= -\cos \theta - 4 \cos  2 \theta\\
-   \frac{dy}{dx} &= \frac{\dot{y}}{\dot{x}} = -\frac{ \cos  \theta + 2 \cos 2 \theta}{\sin  \theta + 2 \sin  2 \theta }\\
-   \frac{dy^2}{dx^2} &= \frac{\dot{x}\ddot{y} - \ddot{x}\dot{y}}{\dot{x}^3} = 
+   \frac{dy}{d\theta } &= \cos  \theta  + 2 \cos 2 \theta \implies -\frac{1}{2} + 2(-\frac{1}{2})= - \frac{3}{2}\\
+   \frac{dx}{d\theta } &= -\sin  \theta - 2 (2 \cos  \theta ) \sin \theta = - \sin  \theta - 2 \sin  2 \theta = -\frac{\sqrt{3}}{2} - 2 (- \frac{\sqrt{3}}{2}) = \frac{\sqrt{3}}{2}\\
+   \frac{d^2y}{d\theta ^2} &= -\sin  \theta - 4 \sin  2 \theta = -\frac{\sqrt{3}}{2} - 4  \left( -\frac{\sqrt{3}}{2} \right) = 3 \frac{\sqrt{3}}{2} \\
+   \frac{d^2x}{d\theta ^2} &= -\cos \theta - 4 \cos  2 \theta = \frac{5}{2}\\
+   \frac{dy}{dx} &= \frac{\dot{y}}{\dot{x}} = -\frac{ \cos  \theta + 2 \cos 2 \theta}{\sin  \theta + 2 \sin  2 \theta } = -\frac{\frac{3}{2}}{\frac{\sqrt{3}}{2}} = -\sqrt{3}\\
+   \frac{dy^2}{dx^2} &= \frac{\dot{x}\ddot{y} - \ddot{x}\dot{y}}{\dot{x}^3} = \frac{ \frac{\sqrt{3}}{2} 3\frac{\sqrt{3}}{2} - \frac{5}{2} \frac{3}{2} }{\left(\frac{\sqrt{3}}{2}\right)^3}\\
+   &= \frac{\frac{9}{4}-\frac{15}{4}}{\frac{3\sqrt{3}}{8}} &= -\frac{3}{2} \frac{8}{3\sqrt{3}} = -\frac{4}{\sqrt{3}}
    \end{aligned}$$
+
+## points where tangent is horizontal or vertical

@@ -131,7 +131,7 @@ sources and notes -- do they support your thesis?
 -   \"Jesuit influence threatened not only sexual activity but also the
     ability of traders and coureurs de bois to create the ties to
     Algonquian society on which their trade, and perhaps their lives,
-    depended.\" (White 68) actual event
+    depended.\" (White 68) CH actual event
 -   DA claims NM living was long and well, with a healthy life balaince
 -   DB that even European settlers marveled at the frequent bathing of
     NM
